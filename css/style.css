@@ -4659,6 +4659,10 @@ html.boxed body {
 	color: #151515;
 }
 
+.text-gray-900 {
+	color: #9b9b9b;
+}
+
 .img-shadow {
 	box-shadow: 0 0 22px rgba(0, 0, 0, 0.1);
 }
